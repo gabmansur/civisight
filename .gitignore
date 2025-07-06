@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+.env
+.env.*
+venv/
+.Python
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
+logs/
+data/logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secret keys
+secrets/
